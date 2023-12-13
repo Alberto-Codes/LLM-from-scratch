@@ -9,6 +9,7 @@ numpy = "*"
 pylzma = "*"
 ipykernel = "*"
 jupyter = "*"
+torch = "*"
 
 [dev-packages]
 black = "*"
